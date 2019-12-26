@@ -3,12 +3,18 @@
 
 #AMCAT
 *Top N Competitors/Buzzwords ⭐⭐ [Experienced]
+
 *Zombie in Matrix aka Min hours to send file to all available servers ⭐⭐ [Experienced]
 Critical Routers ⭐⭐ [New Grad | Experienced]
+
 Product Suggestions ⭐⭐ [New Grad | Experienced]
+
 Number of Clusters ⭐⭐ [Experienced]
+
 Reorder Data in Log Files ⭐⭐⭐ [Experienced]
+
 Optimal Utilization ⭐⭐⭐ [Experienced]
+
 Min Cost to Connect Ropes / Min Time to Merge Files ⭐⭐⭐[Experienced]
 Treasure Island / Min Distance to Remove the Obstacle (BFS) ⭐⭐⭐ [Experienced]
 Treasure Island II
