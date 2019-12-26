@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAcoding", "OAcoding.csproj", "{E81043A1-1CA5-4B81-BF62-64AA0A58BBE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAcoding.ZombieinMatrix", "OAcoding.ZombieinMatrix\OAcoding.ZombieinMatrix.csproj", "{EDBD10BC-94B8-4609-9FD8-138C325DCEC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAcoding.CriticalConnetions", "OAcoding.CriticalConnetions\OAcoding.CriticalConnetions.csproj", "{9D1BA2A0-9FC4-467C-9B75-0F1D157F0873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E81043A1-1CA5-4B81-BF62-64AA0A58BBE3}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E81043A1-1CA5-4B81-BF62-64AA0A58BBE3}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E81043A1-1CA5-4B81-BF62-64AA0A58BBE3}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E81043A1-1CA5-4B81-BF62-64AA0A58BBE3}.Release|anycpu.Build.0 = Release|anycpu
+		{EDBD10BC-94B8-4609-9FD8-138C325DCEC4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EDBD10BC-94B8-4609-9FD8-138C325DCEC4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EDBD10BC-94B8-4609-9FD8-138C325DCEC4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EDBD10BC-94B8-4609-9FD8-138C325DCEC4}.Release|anycpu.Build.0 = Release|anycpu
+		{9D1BA2A0-9FC4-467C-9B75-0F1D157F0873}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{9D1BA2A0-9FC4-467C-9B75-0F1D157F0873}.Debug|anycpu.Build.0 = Debug|anycpu
+		{9D1BA2A0-9FC4-467C-9B75-0F1D157F0873}.Release|anycpu.ActiveCfg = Release|anycpu
+		{9D1BA2A0-9FC4-467C-9B75-0F1D157F0873}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
