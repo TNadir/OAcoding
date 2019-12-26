@@ -21,6 +21,7 @@ namespace OAcoding.ZombieinMatrix
             grid.Add(new List<int> { 0, 1, 0, 1, 0 });
             grid.Add(new List<int> { 0, 0, 0, 0, 1 });
             grid.Add(new List<int> { 0, 1, 0, 0, 0 });
+            grid.Add(new List<int> { 0, 1, 0, 0, 0 });
             var zm = new ZombiesInMatrix();
 
             Console.WriteLine(zm.MinHours(grid));
