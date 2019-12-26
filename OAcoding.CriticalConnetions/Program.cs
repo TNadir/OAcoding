@@ -14,8 +14,12 @@ namespace OAcoding.CriticalConnetions
             input.Add(new List<int> { 2, 0 });
             input.Add(new List<int> { 1, 3 });
             CriticalConnectionsClass ccClass = new CriticalConnectionsClass();
-            var res = ccClass.CriticalConnections(4, input);
-            Console.WriteLine(res);
+            var res = ccClass.CriticalConnections(input.Count, input);
+            foreach (var r in res)
+            {
+                    Console.WriteLine(string.Join(", ",r));
+            }
+
             Console.ReadKey();
         }
     }
