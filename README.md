@@ -5,9 +5,9 @@
 
 
 # AMCAT
-*Top N Competitors/Buzzwords ⭐⭐ [Experienced]
+Top N Competitors/Buzzwords ⭐⭐ [Experienced]
 
-*Zombie in Matrix aka Min hours to send file to all available servers ⭐⭐ [Experienced]
+Zombie in Matrix aka Min hours to send file to all available servers ⭐⭐ [Experienced]
 
 Critical Routers ⭐⭐ [New Grad | Experienced]
 
