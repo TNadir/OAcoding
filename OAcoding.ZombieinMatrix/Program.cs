@@ -3,9 +3,7 @@ using System.Collections.Generic;
 
 namespace OAcoding.ZombieinMatrix
 {
-
-
-
+    //zombieees
     class MainClass
     {
         public static void Main(string[] args)
