@@ -1,3 +1,10 @@
+# Amazon Online Assessment Questions
+
+# From Leet code for C# devs 
+(https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
+
+
+
 <div class="discuss-markdown-container"><p>⭐ - frequency</p><p>
 </p><h3>AMCAT</h3>
 <ul>
