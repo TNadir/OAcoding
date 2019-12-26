@@ -1,9 +1,9 @@
 # OAcoding
 
 
-AMCAT
-Top N Competitors/Buzzwords ⭐⭐ [Experienced]
-Zombie in Matrix aka Min hours to send file to all available servers ⭐⭐ [Experienced]
+#AMCAT
+*Top N Competitors/Buzzwords ⭐⭐ [Experienced]
+*Zombie in Matrix aka Min hours to send file to all available servers ⭐⭐ [Experienced]
 Critical Routers ⭐⭐ [New Grad | Experienced]
 Product Suggestions ⭐⭐ [New Grad | Experienced]
 Number of Clusters ⭐⭐ [Experienced]
