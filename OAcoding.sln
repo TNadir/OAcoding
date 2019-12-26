@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAcoding.ZombieinMatrix", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAcoding.CriticalConnetions", "OAcoding.CriticalConnetions\OAcoding.CriticalConnetions.csproj", "{9D1BA2A0-9FC4-467C-9B75-0F1D157F0873}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAcoding.ProductSuggestions", "OAcoding.ProductSuggestions\OAcoding.ProductSuggestions.csproj", "{F78A9B84-F0AE-465E-8BE5-5E3E47D251BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -25,5 +27,9 @@ Global
 		{9D1BA2A0-9FC4-467C-9B75-0F1D157F0873}.Debug|anycpu.Build.0 = Debug|anycpu
 		{9D1BA2A0-9FC4-467C-9B75-0F1D157F0873}.Release|anycpu.ActiveCfg = Release|anycpu
 		{9D1BA2A0-9FC4-467C-9B75-0F1D157F0873}.Release|anycpu.Build.0 = Release|anycpu
+		{F78A9B84-F0AE-465E-8BE5-5E3E47D251BE}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F78A9B84-F0AE-465E-8BE5-5E3E47D251BE}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F78A9B84-F0AE-465E-8BE5-5E3E47D251BE}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F78A9B84-F0AE-465E-8BE5-5E3E47D251BE}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
