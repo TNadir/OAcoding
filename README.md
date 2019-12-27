@@ -62,3 +62,74 @@
 <li><a href="https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/">https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/</a> [Intern]</li>
 <li><a href="https://leetcode.com/discuss/interview-question/432213/">Nth GP</a> [Intern]</li>
 </ul><p></p></div>
+
+
+
+# Amazon Behavioral questions | Leadership Principles | LP
+
+<div class="discuss-markdown-container"><p>1.<a href="https://interviewgenie.com/blog-1/category/Amazon+interviews">https://interviewgenie.com/blog-1/category/Amazon+interviews</a><br>
+2.<a href="https://www.youtube.com/channel/UCw0uQHve23oMWgQcTTpgQsQ/playlists">https://www.youtube.com/channel/UCw0uQHve23oMWgQcTTpgQsQ/playlists</a><br>
+3.<a href="https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d">https://medium.com/@scarletinked/are-you-the-leader-were-looking-for-interviewing-at-amazon-8301d787815d</a></p><p>
+</p><p>Tell me about a situation where you had a conflict with someone on your team. What was it about? What did you do? How did they react? What was the outcome?</p><p>
+</p><p>Give an example of when you saw a peer struggling and decided to step in and help. What was the situation and what actions did you take? What was the outcome?<br>
+Tell me about a time you committed a mistake?</p><p>
+</p><p>Tell me about a time when your earned your teammate's trust?</p><p>
+</p><p>Tell me about a time when you couldn't meet your deadline?</p><p>
+</p><p>Tell me about a time when your teammate didn't agree with you? What did you do?</p><p>
+</p><p>Tell me about a time when you invented something?</p><p>
+</p><p>Tell me about a time when you took important decision without any data?</p><p>
+</p><p>Tell me about a time when you helped one of your teammates?</p><p>
+</p><p>Have you ever been in a situation where you had to make a choice among a few options, but did not have a lot of time to explore each option</p><p>
+</p><p>Have you ever failed at something? What did you learn from it?</p><p>
+</p><p>name time when you went out of your way to help someone?</p><p>
+</p><p>Time when you came up with novel solution.<br>
+Received negative feedback from manager and how you responded.<br>
+Time when you went above and beyond your job responsibilities.<br>
+Time when you did not have enough data and had to use judgement to make decision.<br>
+Time when you helped someone in their work.<br>
+Time when you helped someone grow in career and it benefited them.<br>
+Time when you helped someone grow but did not benefit them.<br>
+Time when you were 75% through a project and realized you had the wrong goal.<br>
+Time when your team members were not supporting something but you pushed and went for a more optimal solution.<br>
+Time when you pushed back a decision from your management for better long term benefits.<br>
+Time when you failed to meet your commitment</p><p>
+</p><p>Tell me about yourself. Tell me about a project you're working on.</p><p>
+</p><p>Time when you were working on a project on a time constraint</p><p>
+</p><p>Time when you didn't meet a deadline</p><p>
+</p><p>Time when you needed help from somebody</p><p>
+</p><p>Tell me about yourself.<br>
+Tell me about a time you had to help a team member struggling with a task.<br>
+Tell me about a time you faced an obstacle and how you overcame it.</p><p>
+</p><p>Tell me about one of your projects?<br>
+Tell me about one of your projects so the same as the first guy.<br>
+Tell me a time you took some on some risk</p><p>
+</p><p>Have you ever gone out of your way to help a peer? (ownership)<br>
+Have you ever had to make a tough decision without consulting anybody? (bias for action)<br>
+asked me about my past projects that I've worked on and gave me detailed explaination about the Internship.</p><p>
+</p><p>Tell me about a time when you learned new technologies<br>
+Tell me about a time when you took a decision on your own without the manager's prior approval<br>
+Tell me about a time you had multiple solutions and you had to select an optimal one</p><p>
+</p><p>Tell me about a time when you innovated and exceeded the expectation</p><p>
+</p><p>Tell me about a time where you had to make a decision based on limited information and how it impacted the outcome.</p><p>
+</p><p>Tell me about a time where you had limited time and how it impacted</p><p>
+</p><p>Tell me about a time where you did not know something and how you tackled it(Something related to it)</p><p>
+</p><p>first one was about handling a tight deadline, second is setbacks on projects?</p><p>
+</p><p>Handling a tight deadline<br>
+How would you help a new employee who is facing technical difficulties?</p><p>
+</p><p>disagree and commit and ownership LPs.</p><p>
+</p><p>Tell me about your yourself (the general icebreaker).<br>
+Tell me about tim when you faced a difficult challenge.<br>
+Tell me about a time when you needed help from someone during a project.</p><p>
+</p><p>Tell me about a time when you thought of an unpopular idea.<br>
+Tell me about a time when you had to decide upon something without consulting your superior.<br>
+Tell me about a time when you had to face tight time constraints during a project.</p><p>
+</p><p>Tell me about yourself.<br>
+Tell me about a time when you did not meet your deadlines for a project.<br>
+Tell me about a time when you had conflicting ideas with your teammates and how did you resolve them?</p><p>
+</p><p>a project you're proud of<br>
+a time when you faced a setback initially but still achieved the goal.<br>
+a time when you had to cut corners to meet a deadline</p><p>
+</p><p>"Tell me about a time when you felt under pressure that you wouldn't be able to get something done or had to take a pivot at the last minute"</p><p>
+</p><p>I will update the list regularly<br>
+Hope this helps</p><p>
+</p><p>Source: LeetCode Interview experiences!!!!</p></div>
