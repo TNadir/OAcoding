@@ -8,114 +8,31 @@ namespace OAcoding
     {
         public static void Main(string[] args)
         {
-            /*
-
-              [[2,1,1],
-               [1,1,0],
-               [0,1,1]]
-
-             */
-            var grid = new int[][] {
-                new int[]{ 0,2 }
-
-            };
-            Console.WriteLine(OrangesRotting(grid));
+            var res = SortKMessedArray(new int[] { 1, 4, 5, 2, 3, 7, 8, 6, 10, 9 }, 2);
+            Console.WriteLine(res);
             Console.ReadKey();
         }
 
-        public enum Fresh
+        public static int[] SortKMessedArray(int[] arr, int k)
         {
-            noFreash = 0,
-            fresh = 1,
-            rotten = 2
-        }
-
-        public class Point
-        {
-
-            public int r, c;
-            public Point(int r, int c)
+            if (arr == null && arr.Length <= 1)
             {
-                this.r = r;
-                this.c = c;
+                return arr;
             }
-        }
-        public static int OrangesRotting(int[][] grid)
-        {
-            /*
-            [[2,1,1],
-             [0,1,1],
-             [1,0,1]]
-
-            */
-
-            if (grid == null) return -1;
-
-            int countFreshs = 0, countNoFreshs = 0;
-            int row = grid.Length, col = grid[0].Length;
-            int countCells = row * col;
-            Queue<Point> rottens = new Queue<Point>();
-
-            for (int r = 0; r < row; r++)
-            {
-                for (int c = 0; c < col; c++)
-                {
-                    if (grid[r][c] == (int)Fresh.rotten)
-                    {
-                        rottens.Enqueue(new Point(r, c));
-                        continue;
-                    }
-
-                    if (grid[r][c] == (int)Fresh.noFreash)
-                    {
-                        countNoFreshs++;
-                        continue;
-                    }
-                    if (grid[r][c] == (int)Fresh.fresh)
-                    {
-                        countFreshs++;
-                    }
+            //1, 4, 5, 2, 3, 7, 8, 6, 10, 9
+            for (int i = 1; i < arr.Length; i++)
+            {//O(N)
+                int x = arr[i];
+                int j = i - 1;
+                while (j >= 0 && arr[j] > x)
+                { //O(k)
+                    arr[j + 1] = arr[j];
+                    j--;
                 }
+                arr[j + 1] = x;
             }
-
-            if (countFreshs == 0)
-            {
-                return 0;
-            }
-
-            int[][] DIRS = { new int[] {0, 1 },
-                             new int[] {1, 0 },
-                             new int[] {0,-1 },
-                             new int[] {-1,0 }};
-
-            for (int min = 1; rottens.Count > 0; min++)
-            {
-                for (int i = rottens.Count; i > 0; i--)
-                {
-                    Point p = rottens.Dequeue();
-                    foreach (var item in DIRS)
-                    {
-                        int r = p.r + item[0];
-                        int c = p.c + item[1];
-                        var isfresh = IsFresh(grid, r, c);
-                        if (isfresh)
-                        {
-                            countFreshs--;
-                            if (countFreshs == 0) return min;
-                            grid[r][c] = (int)Fresh.rotten;
-                            rottens.Enqueue(new Point(r, c));
-                        }
-                    }
-                }
-            }
-            return -1;
+            return arr;
         }
 
-        private static bool IsFresh(int[][] grid, int r, int c)
-        {
-
-            return r >= 0 && r < grid.Length && c >= 0 &&
-                c < grid[0].Length && grid[r][c] == (int)Fresh.fresh;
-        }
     }
 }

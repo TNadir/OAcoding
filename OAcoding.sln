@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAcoding.ProductSuggestions
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAcoding.NumberIslands", "OAcoding.NumberIslands\OAcoding.NumberIslands.csproj", "{0CF2122E-4DDF-4C27-922D-469CF782B866}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAcoding.ReorderLogFiles", "OAcoding.ReorderLogFiles\OAcoding.ReorderLogFiles.csproj", "{1EF62CFE-C7A6-4A07-B89B-110AEFED3B7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -37,5 +39,9 @@ Global
 		{0CF2122E-4DDF-4C27-922D-469CF782B866}.Debug|anycpu.Build.0 = Debug|anycpu
 		{0CF2122E-4DDF-4C27-922D-469CF782B866}.Release|anycpu.ActiveCfg = Release|anycpu
 		{0CF2122E-4DDF-4C27-922D-469CF782B866}.Release|anycpu.Build.0 = Release|anycpu
+		{1EF62CFE-C7A6-4A07-B89B-110AEFED3B7A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{1EF62CFE-C7A6-4A07-B89B-110AEFED3B7A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{1EF62CFE-C7A6-4A07-B89B-110AEFED3B7A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{1EF62CFE-C7A6-4A07-B89B-110AEFED3B7A}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
