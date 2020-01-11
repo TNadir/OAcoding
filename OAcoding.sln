@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAcoding.OptimalUtilization
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAcoding.TopNBuzzwords", "OAcoding.TopNBuzzwords\OAcoding.TopNBuzzwords.csproj", "{4755713F-D808-493E-BCBF-78F66D6C6D04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OAcoding.MinTimeToMergeFiles", "OAcoding.MinTimeToMergeFiles\OAcoding.MinTimeToMergeFiles.csproj", "{E2055473-8079-49A4-B471-BBF2D2A09107}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -55,5 +57,9 @@ Global
 		{4755713F-D808-493E-BCBF-78F66D6C6D04}.Debug|anycpu.Build.0 = Debug|anycpu
 		{4755713F-D808-493E-BCBF-78F66D6C6D04}.Release|anycpu.ActiveCfg = Release|anycpu
 		{4755713F-D808-493E-BCBF-78F66D6C6D04}.Release|anycpu.Build.0 = Release|anycpu
+		{E2055473-8079-49A4-B471-BBF2D2A09107}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E2055473-8079-49A4-B471-BBF2D2A09107}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E2055473-8079-49A4-B471-BBF2D2A09107}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E2055473-8079-49A4-B471-BBF2D2A09107}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal
