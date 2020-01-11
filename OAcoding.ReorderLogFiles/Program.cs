@@ -31,11 +31,12 @@ namespace OAcoding.ReorderLogFiles
 
              */
             var logs = new string[] {
-                             "dig1 8 1 5 1",
-                             "let1 art can",
-                             "dig2 3 6",
-                             "let2 own kit dig",
-                             "let3 art zero"
+                             "zld 93 12",
+                             "fp kindle book",
+                             "10a echo show",
+                             "17g 12 25 6",
+                             "abl kindle book",
+                             "125 echo dot second generation"
              };
             var res = ReorderLogFiles(logs);
             Console.WriteLine(string.Join(", ",res));
